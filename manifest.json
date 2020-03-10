@@ -1,6 +1,6 @@
 {
-  "name": "Hello World",
-  "short_name": "Hello",
+  "name": "Hello New World",
+  "short_name": "Hello New",
   "icons": [{
     "src": "images/hello-icon-128.png",
       "sizes": "128x128",
@@ -29,6 +29,6 @@
   "lang": "en-US",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "white",
-  "theme_color": "white"
+  "background_color": "Blue",
+  "theme_color": "Blue"
 }
